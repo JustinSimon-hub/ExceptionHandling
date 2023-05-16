@@ -1,0 +1,15 @@
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/obj/Debug/net6.0/ExceptionHandlingExercise.csproj.AssemblyReference.cache
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/obj/Debug/net6.0/ExceptionHandlingExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/obj/Debug/net6.0/ExceptionHandlingExercise.AssemblyInfoInputs.cache
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/obj/Debug/net6.0/ExceptionHandlingExercise.AssemblyInfo.cs
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/obj/Debug/net6.0/ExceptionHandlingExercise.csproj.CoreCompileInputs.cache
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/bin/Debug/net6.0/ExceptionHandlingExercise
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/bin/Debug/net6.0/ExceptionHandlingExercise.deps.json
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/bin/Debug/net6.0/ExceptionHandlingExercise.runtimeconfig.json
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/bin/Debug/net6.0/ExceptionHandlingExercise.dll
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/bin/Debug/net6.0/ExceptionHandlingExercise.pdb
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/obj/Debug/net6.0/ExceptionHandlingExercise.dll
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/obj/Debug/net6.0/refint/ExceptionHandlingExercise.dll
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/obj/Debug/net6.0/ExceptionHandlingExercise.pdb
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/obj/Debug/net6.0/ExceptionHandlingExercise.genruntimeconfig.cache
+/Users/justinsimon/Desktop/repos/repos/ExceptionHandlingExercise/ExceptionHandlingExercise/obj/Debug/net6.0/ref/ExceptionHandlingExercise.dll
